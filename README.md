@@ -23,11 +23,20 @@
 <img src="https://img.shields.io/badge/ACCESS-AUTHORIZED-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-39FF14?style=for-the-badge&logo=letsencrypt&logoColor=black&labelColor=0D1117" />
 
+<br/><br/>
+
+<!-- Custom hand-coded animated SVG: falling matrix-style rain, generated with a Python script (assets/matrix-rain.svg) -->
+<img src="assets/matrix-rain.svg" width="100%" alt="matrix rain divider" />
+
 </div>
 
 <br/>
 
 ## `>_` root@atig:~/about$ cat profile.json
+
+<table>
+<tr>
+<td width="65%">
 
 ```json
 {
@@ -50,6 +59,18 @@
   "uptime": "compiling since college"
 }
 ```
+
+</td>
+<td width="35%" align="center">
+
+<!-- Custom hand-coded animated SVG: rotating radar sweep with pulsing blips (assets/radar-scan.svg) -->
+<img src="assets/radar-scan.svg" width="220" alt="animated radar scan" />
+<br/>
+<sub>scanning...</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -85,6 +106,11 @@
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nginx,postgres&theme=dark" />
 
+<br/><br/>
+
+<!-- Custom hand-coded animated SVG: bars fill in on load, generated with a Python script (assets/skill-bars.svg) -->
+<img src="assets/skill-bars.svg" width="90%" alt="animated skill proficiency bars" />
+
 </div>
 
 <br/>
@@ -114,6 +140,12 @@
 </div>
 
 > ⚙️ Powered by the `.github/workflows/snake.yml` workflow already set up in this repo — no changes needed, it keeps running on schedule.
+
+<br/>
+
+<div align="center">
+<img src="assets/matrix-rain.svg" width="100%" alt="matrix rain divider" />
+</div>
 
 <br/>
 
