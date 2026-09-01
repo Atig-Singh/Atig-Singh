@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" /></a>
+<a href="https://github.com/Atig-Singh"><img src="https://img.shields.io/github/followers/Atig-Singh?label=Follow&style=social" /></a>
 <a href="https://linkedin.com/in/atig-singh-37726137a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:atig.singh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
@@ -61,16 +61,16 @@ whoami:
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Atig-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atig-Singh&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atig-Singh&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atig-Singh&theme=tokyo-night&hide_border=true" width="90%" />
 
 </div>
 
@@ -79,7 +79,7 @@ whoami:
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/Atig-Singh/Atig-Singh/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
 > ⚙️ To enable the snake above: add `.github/workflows/snake.yml` (template below) to your **profile repo** — it auto-generates and commits the animated SVG on a schedule.
@@ -89,7 +89,7 @@ whoami:
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Atig-Singh&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <br/>
@@ -97,7 +97,7 @@ whoami:
 ## 📈 Visitor Count
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00c9ff&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Atig-Singh&color=00c9ff&style=flat-square&label=Profile+Views" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer"/>
