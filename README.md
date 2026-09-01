@@ -4,12 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d1117,100:0d1117&height=3"/>
 
 <pre>
- █████╗ ████████╗██╗ ██████╗ 
-██╔══██╗╚══██╔══╝██║██╔════╝ 
-███████║   ██║   ██║██║  ███╗
-██╔══██║   ██║   ██║██║   ██║
-██║  ██║   ██║   ██║╚██████╔╝
-╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ 
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██████╗    ██████╗ ██╗   ██╗
+██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗   ██╔══██╗╚██╗ ██╔╝
+██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██████╔╝   ██████╔╝ ╚████╔╝ 
+██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗   ██╔══██╗  ╚██╔╝  
+██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║██╗██████╔╝   ██║   
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═════╝    ╚═╝   
 </pre>
 
 <!-- Typing animation — terminal / hacker feel -->
@@ -89,16 +89,16 @@
 ## `>_` root@atig:~/stats$ ./fetch_metrics.sh
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Atig-Singh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atig-Singh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="35%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atig-Singh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atig-Singh&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9" width="90%" />
 
 </div>
 
@@ -107,7 +107,7 @@
 ## `>_` root@atig:~/contrib$ ./run_snake.sh
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/Atig-Singh/Atig-Singh/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
 > ⚙️ Powered by the `.github/workflows/snake.yml` workflow already set up in this repo — no changes needed, it keeps running on schedule.
@@ -117,7 +117,7 @@
 ## `>_` root@atig:~/trophies$ unlock --all
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" />
+<img src="https://github-profile-trophy.vercel.app/?username=Atig-Singh&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" />
 </div>
 
 <br/>
@@ -126,13 +126,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d1117,100:0d1117&height=3"/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=follow&style=for-the-badge&color=39FF14&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-message-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117" /></a>
+<a href="https://github.com/Atig-Singh"><img src="https://img.shields.io/github/followers/Atig-Singh?label=follow&style=for-the-badge&color=39FF14&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/atig-singh-37726137a"><img src="https://img.shields.io/badge/linkedin-connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117" /></a>
+<a href="mailto:atig.singh@gmail.com"><img src="https://img.shields.io/badge/email-message-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=39FF14&style=for-the-badge&label=CONNECTIONS+ESTABLISHED" />
+<img src="https://komarev.com/ghpvc/?username=Atig-Singh&color=39FF14&style=for-the-badge&label=CONNECTIONS+ESTABLISHED" />
 
 <br/><br/>
 
