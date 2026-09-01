@@ -12,8 +12,8 @@
 
 <!-- Social badges -->
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/atig-singh-37726137a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:atig.singh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 </div>
 
