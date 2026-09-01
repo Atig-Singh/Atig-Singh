@@ -26,7 +26,7 @@
 <br/><br/>
 
 <!-- Custom hand-coded animated SVG: falling matrix-style rain, generated with a Python script (assets/matrix-rain.svg) -->
-<img src="https://raw.githubusercontent.com/Atig-Singh/Atig-Singh/main/assets/matrix-rain.svg" width="100%" alt="matrix rain divider" />
+<img src="assets/matrix-rain.svg" width="100%" alt="matrix rain divider" />
 
 </div>
 
@@ -64,7 +64,7 @@
 <td width="35%" align="center">
 
 <!-- Custom hand-coded animated SVG: rotating radar sweep with pulsing blips (assets/radar-scan.svg) -->
-<img src="https://raw.githubusercontent.com/Atig-Singh/Atig-Singh/main/assets/radar-scan.svg" width="220" alt="animated radar scan" />
+<img src="assets/radar-scan.svg" width="220" alt="animated radar scan" />
 <br/>
 <sub>scanning...</sub>
 
@@ -109,7 +109,7 @@
 <br/><br/>
 
 <!-- Custom hand-coded animated SVG: bars fill in on load, generated with a Python script (assets/skill-bars.svg) -->
-<img src="https://raw.githubusercontent.com/Atig-Singh/Atig-Singh/main/assets/skill-bars.svg" width="90%" alt="animated skill proficiency bars" />
+<img src="assets/skill-bars.svg" width="90%" alt="animated skill proficiency bars" />
 
 </div>
 
@@ -144,7 +144,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Atig-Singh/Atig-Singh/main/assets/matrix-rain.svg" width="100%" alt="matrix rain divider" />
+<img src="assets/matrix-rain.svg" width="100%" alt="matrix rain divider" />
 </div>
 
 <br/>
