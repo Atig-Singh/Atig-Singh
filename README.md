@@ -57,12 +57,12 @@
 
 <div align="center">
 
-**Languages**
-<br/>
+**Languages**<br/>
 <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,go,bash,js,ts,php&theme=dark" />
 
-**Security & Systems**
 <br/>
+
+**Security & Systems**<br/>
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=39FF14" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=39FF14" />
@@ -70,16 +70,19 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-**AI / ML & Backend**
 <br/>
+
+**AI / ML & Backend**<br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask,nodejs&theme=dark" />
 
-**Frontend & Graphics**
 <br/>
+
+**Frontend & Graphics**<br/>
 <img src="https://skillicons.dev/icons?i=react,threejs,vite,tailwind&theme=dark" />
 
-**Tools**
 <br/>
+
+**Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nginx,postgres&theme=dark" />
 
 </div>
