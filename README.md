@@ -118,8 +118,8 @@
 ## `>_` root@atig:~/stats$ ./fetch_metrics.sh
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Atig-Singh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atig-Singh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="35%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Atig-Singh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Atig-Singh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="35%" />
 
 <br/>
 
@@ -127,7 +127,9 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atig-Singh&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9" width="90%" />
+<!-- Temporarily commented out: The public server for github-readme-activity-graph is currently disabled.
+     To restore this, consider using the GitHub Action alternative: https://github.com/maurodesouza/github-readme-activity-graph-action -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atig-Singh&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9" width="90%" /> -->
 
 </div>
 
@@ -152,7 +154,8 @@
 ## `>_` root@atig:~/trophies$ unlock --all
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Atig-Singh&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" />
+<!-- Temporarily commented out: The public server for github-profile-trophy is currently disabled (402 Payment Required). -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Atig-Singh&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" /> -->
 </div>
 
 <br/>
