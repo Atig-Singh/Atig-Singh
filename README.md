@@ -94,7 +94,7 @@
 <br/>
 
 **AI / ML & Backend**<br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,fastapi,flask,nodejs,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,fastapi,flask,django,nodejs,mysql,sqlite&theme=dark" />
 
 <br/>
 
