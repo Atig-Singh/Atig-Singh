@@ -78,12 +78,12 @@
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,rust,go,bash,js,ts,php&theme=dark" />
+**Languages**<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,c,java,bash,js,ts,php&theme=dark" />
 
 <br/>
 
-**Security & Systems**<br/>
+**Security & Systems**<br/><br/>
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=39FF14" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=39FF14" />
@@ -93,18 +93,18 @@
 
 <br/>
 
-**AI / ML & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask,nodejs&theme=dark" />
+**AI / ML & Backend**<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,fastapi,flask,nodejs,mysql,sqlite&theme=dark" />
 
 <br/>
 
-**Frontend & Graphics**<br/>
-<img src="https://skillicons.dev/icons?i=react,threejs,vite,tailwind&theme=dark" />
+**Frontend & Graphics**<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,threejs,vite,tailwind&theme=dark" />
 
 <br/>
 
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nginx,postgres&theme=dark" />
+**Tools**<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nginx,npm,postgres&theme=dark" />
 
 <br/><br/>
 
