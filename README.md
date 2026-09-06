@@ -76,14 +76,14 @@
 
 ## `>_` root@atig:~/stack$ ls -la
 
-<table>
-<tr>
-<td width="65%" align="center">
+<div align="center">
+
+<img src="assets/avedeto-pixel-art-12601_512.gif" align="right" width="200" alt="pixel art" />
 
 **Languages**<br/><br/>
 <img src="https://skillicons.dev/icons?i=py,c,java,bash,js,ts,php&theme=dark" />
 
-<br/><br/>
+<br/>
 
 **Security & Systems**<br/><br/>
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=39FF14" />
@@ -98,30 +98,21 @@
 **AI / ML & Backend**<br/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,fastapi,flask,django,nodejs,mysql,sqlite&theme=dark" />
 
-<br/><br/>
+<br/>
 
 **Frontend & Graphics**<br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,threejs,vite,tailwind&theme=dark" />
 
-<br/><br/>
+<br/>
 
 **Tools**<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,nginx,npm,postgres&theme=dark" />
 
-</td>
-<td width="35%" align="center">
-
-<img src="assets/avedeto-pixel-art-12601_512.gif" width="200" alt="pixel art" />
-
-</td>
-</tr>
-</table>
-
 <br/><br/>
 
-<div align="center">
 <!-- Custom hand-coded animated SVG: bars fill in on load, generated with a Python script (assets/skill-bars.svg) -->
 <img src="assets/skill-bars.svg" width="90%" alt="animated skill proficiency bars" />
+
 </div>
 
 <br/>
