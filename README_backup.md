@@ -91,11 +91,6 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-<br/><br/>
-
-<!-- New: hand-coded animated SVG firewall shield with pulsing rings, a scanning sweep, and a padlock (assets/firewall-pulse.svg) -->
-<img src="https://cdn.jsdelivr.net/gh/Atig-Singh/Atig-Singh@main/assets/firewall-pulse.svg" width="150" alt="animated firewall shield" />
-
 <br/>
 
 **AI / ML & Backend**<br/><br/>
@@ -147,17 +142,6 @@
 </div>
 
 > ⚙️ Powered by the `.github/workflows/snake.yml` workflow already set up in this repo — no changes needed, it keeps running on schedule.
-
-<br/>
-
-## `>_` root@atig:~/recon$ tail -f scan.log
-
-<div align="center">
-
-<!-- New: hand-coded animated SVG terminal window, boot-log lines appear in sequence with a blinking cursor (assets/hack-terminal.svg) -->
-<img src="https://cdn.jsdelivr.net/gh/Atig-Singh/Atig-Singh@main/assets/hack-terminal.svg" width="80%" alt="animated hacking terminal log" />
-
-</div>
 
 <br/>
 
