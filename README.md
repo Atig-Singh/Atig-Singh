@@ -138,7 +138,7 @@
 ## `>_` root@atig:~/contrib$ ./run_snake.sh
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Atig-Singh/Atig-Singh/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Atig-Singh/Atig-Singh/output/github-contribution-grid-snake-dark.svg" width="110%" />
 </div>
 
 > ⚙️ Powered by the `.github/workflows/snake.yml` workflow already set up in this repo — no changes needed, it keeps running on schedule.
