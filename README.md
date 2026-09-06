@@ -34,13 +34,13 @@
 
 ## `>_` root@atig:~/about$ cat profile.json
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%">
+<td width="70%">
 
 ```json
 {
-  "handle": "Atig",
+  "handle": "Atig-Singh",
   "role": ["Full-Stack Developer", "Cybersecurity Enthusiast"],
   "org": "Tech Society, Vidyamandira",
   "status": "actively_building",
@@ -66,7 +66,7 @@
 ```
 
 </td>
-<td width="35%" align="center">
+<td width="30%" align="center">
 
 <!-- Custom hand-coded animated SVG: rotating radar sweep with pulsing blips (assets/radar-scan.svg) -->
 <img src="assets/radar-scan.svg" width="220" alt="animated radar scan" />
