@@ -36,7 +36,7 @@
 
 <table width="100%">
 <tr>
-<td width="65%">
+<td width="75%">
 
 ```json
 {
@@ -66,7 +66,7 @@
 ```
 
 </td>
-<td width="35%" align="center">
+<td width="25%" align="center">
 
 <!-- Custom hand-coded animated SVG: rotating radar sweep with pulsing blips (assets/radar-scan.svg) -->
 <img src="assets/radar-scan.svg" width="180" alt="animated radar scan" />
