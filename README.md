@@ -163,7 +163,7 @@
 <img src="https://cdn.jsdelivr.net/gh/Atig-Singh/Atig-Singh@main/assets/hack-terminal.svg" width="65%" alt="animated hacking terminal log" />
 
 <br/><br/>
-<img src="assets/giphy%20(2).gif" width="350" alt="hacker typing" />
+<img src="assets/giphy%20(2).gif" width="200" alt="hacker typing" />
 
 </div>
 
