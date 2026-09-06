@@ -34,7 +34,7 @@
 
 ## `>_` root@atig:~/about$ cat profile.json
 
-<table>
+<table width="100%">
 <tr>
 <td width="65%">
 
