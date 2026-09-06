@@ -78,6 +78,8 @@
 
 <div align="center">
 
+<img src="assets/avedeto-pixel-art-12601_512.gif" align="right" width="200" alt="pixel art" />
+
 **Languages**<br/><br/>
 <img src="https://skillicons.dev/icons?i=py,c,java,bash,js,ts,php&theme=dark" />
 
@@ -119,7 +121,6 @@
 
 <div align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Atig-Singh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Atig-Singh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="35%" />
 
 <br/>
 
@@ -154,6 +155,9 @@
 <!-- New: hand-coded animated SVG terminal window, boot-log lines appear in sequence with a blinking cursor (assets/hack-terminal.svg) -->
 <img src="https://cdn.jsdelivr.net/gh/Atig-Singh/Atig-Singh@main/assets/hack-terminal.svg" width="65%" alt="animated hacking terminal log" />
 
+<br/><br/>
+<img src="assets/giphy%20(2).gif" width="350" alt="hacker typing" />
+
 </div>
 
 <br/>
@@ -184,6 +188,10 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Atig-Singh&color=39FF14&style=for-the-badge&label=CONNECTIONS+ESTABLISHED" />
+
+<br/><br/>
+
+<img src="assets/giphy.gif" width="300" alt="matrix gif" />
 
 <br/><br/>
 
