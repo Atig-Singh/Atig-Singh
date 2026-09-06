@@ -90,16 +90,21 @@
 
 **Security & Systems**<br/><br/>
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=39FF14" />
 <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 
 <br/><br/>
 
 **AI / ML & Backend**<br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,fastapi,flask,django,nodejs,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,fastapi,flask,django,nodejs&theme=dark" />
+
+<br/>
+
+**Databases**<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,sqlite&theme=dark" />
 
 <br/>
 
@@ -109,7 +114,7 @@
 <br/>
 
 **Tools**<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nginx,npm,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nginx,npm&theme=dark" />
 
 <br/><br/>
 
