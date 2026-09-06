@@ -150,9 +150,9 @@
 <div align="center">
 
 <!-- New: hand-coded animated SVG firewall shield with pulsing rings, a scanning sweep, and a padlock (assets/firewall-pulse.svg) -->
-<img src="https://cdn.jsdelivr.net/gh/Atig-Singh/Atig-Singh@main/assets/firewall-pulse.svg" width="20%" alt="animated firewall shield" />
+<img src="https://cdn.jsdelivr.net/gh/Atig-Singh/Atig-Singh@main/assets/firewall-pulse.svg" width="28%" alt="animated firewall shield" />
 <!-- New: hand-coded animated SVG terminal window, boot-log lines appear in sequence with a blinking cursor (assets/hack-terminal.svg) -->
-<img src="https://cdn.jsdelivr.net/gh/Atig-Singh/Atig-Singh@main/assets/hack-terminal.svg" width="75%" alt="animated hacking terminal log" />
+<img src="https://cdn.jsdelivr.net/gh/Atig-Singh/Atig-Singh@main/assets/hack-terminal.svg" width="65%" alt="animated hacking terminal log" />
 
 </div>
 
