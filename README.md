@@ -34,9 +34,9 @@
 
 ## `>_` root@atig:~/about$ cat profile.json
 
-<table width="100%">
+<table>
 <tr>
-<td width="70%">
+<td width="65%">
 
 ```json
 {
@@ -66,7 +66,7 @@
 ```
 
 </td>
-<td width="30%" align="center">
+<td width="35%" align="center">
 
 <!-- Custom hand-coded animated SVG: rotating radar sweep with pulsing blips (assets/radar-scan.svg) -->
 <img src="assets/radar-scan.svg" width="220" alt="animated radar scan" />
