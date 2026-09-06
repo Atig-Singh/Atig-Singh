@@ -198,7 +198,7 @@
 
 <br/><br/>
 
-<img src="assets/giphy.gif" width="300" alt="matrix gif" />
+<img src="assets/giphy.gif" width="150" alt="matrix gif" />
 
 <br/><br/>
 
