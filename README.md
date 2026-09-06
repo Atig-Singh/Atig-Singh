@@ -118,8 +118,16 @@
 ## `>_` root@atig:~/stats$ ./fetch_metrics.sh
 
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Atig-Singh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="assets/avedeto-pixel-art-12601_512.gif" width="30%" alt="pixel art" />
+<table width="100%">
+<tr>
+<td width="60%" align="center" valign="middle">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Atig-Singh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="100%" />
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="assets/avedeto-pixel-art-12601_512.gif" width="220" alt="pixel art" />
+</td>
+</tr>
+</table>
 
 <br/>
 
