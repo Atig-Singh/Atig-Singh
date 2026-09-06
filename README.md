@@ -36,7 +36,7 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="80%">
 
 ```json
 {
