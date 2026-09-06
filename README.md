@@ -45,15 +45,15 @@
   "org": "Tech Society, Vidyamandira",
   "status": "actively_building",
   "current_ops": [
-    "🌐  Social-media media/image-&-video extraction pipeline",
+    "🌐  Social media & image/video extraction pipeline",
     "✨  Three.js particle renderer — Sobel edge-sampled 3D visuals",
-    "🔐  Auth hardening research — rate-limiting, OTP flows, Redis-backed defenses",
-    "📄  Document forge detection engine — YOLOv8 + FastAPI + React, containerized",
-    "🕵️  DeepImageGuard (Deepfake image detection) — PyTorch + Celery + FastAPI + React, containerized",
-    "🎥  DeepVideoGuard (Deepfake video detection) — PyTorch + Celery + FastAPI + React, containerized",
+    "🔐  Auth hardening — rate-limiting, OTP flows, Redis-backed defenses",
+    "📄  Document forge detection — YOLOv8 + FastAPI + React, containerized",
+    "🕵️  DeepImageGuard (Deepfake img) — PyTorch + Celery + FastAPI + React",
+    "🎥  DeepVideoGuard (Deepfake vid) — PyTorch + Celery + FastAPI + React",
     "🔎  Identity Forensic Module — Node.js + Python + React, OSINT engine",
-    "🤖  Facebook Bot — Facebook automation for various user actions using browser session cookies",
-    "🏫  rkmvmfamily — Website for the management of the various tasks performed by the college staff, students, and officials"
+    "🤖  Facebook Bot — Automated user actions via browser session cookies",
+    "🏫  rkmvmfamily — Management portal for college staff and students"
   ],
   "interests": [
     "offensive & defensive security fundamentals",
